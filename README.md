@@ -9,7 +9,7 @@ Add subtitle(.srt) to downloaded Youtube videos
 - Preparation
 
   - Download videos from Youtube with `Youtube-dl` or `yt-dlp`;
-  - Get the Youtube auto-generated subtitles: (the example subtitles are take from this video https://www.youtube.com/watch?v=ELoGT5uD_j4&ab_channel=NicoRosberg)
+  - Get the Youtube auto-generated subtitles: (Some videos have, some videos don't. The example subtitles are take from this video https://www.youtube.com/watch?v=ELoGT5uD_j4&ab_channel=NicoRosberg)
 
   <img src="images/get_subtitles_from_youtube.jpg" alt="get_subtitles_from_youtube" style="zoom: 67%;" />
 
