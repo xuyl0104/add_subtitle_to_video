@@ -1,6 +1,6 @@
 # add_subtitle_to_video
 
-Add subtitle(.srt) to downloaded Youtube videos
+Add subtitle(.srt) to downloaded Youtube videos as a track/stream.
 
 
 
@@ -25,4 +25,5 @@ Add subtitle(.srt) to downloaded Youtube videos
 
   - Modify the filenames and file paths in the `main function`;
   - In command line, run `python embed_subtitle.py`
-  - The code will burn the subtitles onto the video with a 250x speed. Really really fast!
+  - The code will embed the subtitles onto the video with a 250x speed. Really really fast!
+  - Note: this code repo will **NOT burn** the subtitles onto the video.
